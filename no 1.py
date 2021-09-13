@@ -1,13 +1,1 @@
-list_bilangan = list(map(int, input().split(" ")))
-
-def printList():
-    for x in list_bilangan:
-        if x % 2 != 0:
-            print(x, end = " ")
-    print()
-
-printList()
-#panggil fungsi printList()
-list_bilangan[0] += 1
-#panggil fungsi printList
-printList()
+print("hello world")
